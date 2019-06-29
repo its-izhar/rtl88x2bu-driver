@@ -1,6 +1,10 @@
 # rtl88x2bu-driver
 Linux kernel >=4.15 compatible realtek driver for RTL8812BU/RTL8822BU chipset for wifi adapters
 
+### Last Tested:
+ - Linux Kernel 4.19.* Longterm releases
+ - Linux Kernel 4.15.* Longterm releases
+
 ## About
 This repository contains drivers for the RTL8812BU/RTL8822BU chipset, updated to work with Linux 4.15 and above, the current kernel version for Ubuntu 18.04.1 at the time of writing.
 
